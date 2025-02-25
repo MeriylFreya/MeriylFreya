@@ -35,9 +35,9 @@
 ---
 
 ### 📫 Contact Me:
-📧 **Email:** meriylfreya@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/meriyl-freya-sequeira](https://www.linkedin.com/in/meriyl-freya-sequeira)  
-🐙 **GitHub:** [github.com/MeriylFreya](https://github.com/MeriylFreya)  
+**Email:** meriylfreya@gmail.com  
+**LinkedIn:** [linkedin.com/in/meriyl-freya-sequeira](https://www.linkedin.com/in/meriyl-freya-sequeira)  
+**GitHub:** [github.com/MeriylFreya](https://github.com/MeriylFreya)  
 
 ---
 
